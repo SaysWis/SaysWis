@@ -1,7 +1,8 @@
 
 ## 👋 Hey there ! 
 
-I am Wissam SAYSSOUK, a Ph.D. Student in Control Systems between [Université de Haute Alsace (UHA)](https://www.miam.crespim.uha.fr), Mulhouse, France, and [ONERA](https://www.onera.fr/fr/dtis), Toulouse, France. My Ph.D. topic is "Development of safe control architectures for an autonomous ground vehicle". I obtained a Master degree in System, Control and Information Technologies from [Université Grenoble Alpes (UGA)](https://master-eecs.univ-grenoble-alpes.fr/programme/master-2-miscit/), France, in 2021.
+I am Wissam Sayssouk, an Electrical Engineer and Ph.D. in Control Systems, currently Head of the Electrical Engineering Specialization at [ESIGELEC]([https://www.onera.fr/fr/dtis](https://www.esigelec.fr/fr)), France. 
 
+I completed my doctoral studies between the [Université de Haute Alsace (UHA)](https://www.miam.crespim.uha.fr) in Mulhouse and [ONERA](https://www.onera.fr/fr/dtis) in Toulouse, where my research focused on the development of safe control architectures for autonomous ground vehicles. I also hold a Master’s degree in Systems, Control and Information Technologies from Université Grenoble Alpes (UGA) (2021).
 
 LinkedIn :  [in/Wissam-SAYSSOUK](https://www.linkedin.com/in/wissam-sayssouk/)
