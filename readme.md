@@ -7,7 +7,7 @@ I completed my doctoral studies between the [Université de Haute Alsace (UHA)](
 
 In my current role at ESIGELEC, I am responsible for:
 
-Leading and coordinating the Electrical Engineering specialization, including curriculum design and academic strategy.
+- Leading and coordinating the Electrical Engineering specialization, including curriculum design and academic strategy.
 - Teaching in the areas of control systems, electrical engineering, and power engineering.
 - Supervising student projects and supporting research and industry partnerships.
 - Contributing to the development of interdisciplinary programs within the engineering school.
