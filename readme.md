@@ -1,7 +1,7 @@
 
 ## 👋 Hey there ! 
 
-I am Wissam Sayssouk, an Electrical Engineer and Ph.D. in Automatic, currently Head of the Electrical Engineering Specialization at [ESIGELEC]([https://www.onera.fr/fr/dtis](https://www.esigelec.fr/fr)), France. 
+I am Wissam Sayssouk, an Electrical Engineer and Ph.D. in Automatic, currently Head of the Electrical Engineering Specialization at [ESIGELEC](https://www.esigelec.fr/fr), France. 
 
 I completed my doctoral studies between the [Université de Haute Alsace (UHA)](https://www.miam.crespim.uha.fr) in Mulhouse and [ONERA](https://www.onera.fr/fr/dtis) in Toulouse. I also hold a Master’s degree in Systems, Control and Information Technologies from Université Grenoble Alpes (UGA) (2021).
 
