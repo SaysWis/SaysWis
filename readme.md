@@ -13,6 +13,6 @@ Leading and coordinating the Electrical Engineering specialization, including cu
 - Contributing to the development of interdisciplinary programs within the engineering school.
 - Responsible of multiple projects at the university.
 
-My expertise lies at the intersection of control theory, autonomous systems, and modern electrical engineering, with a strong focus on safe, intelligent, and robust system design.
+My expertise lies at the intersection of control theory, autonomous systems, and electrical engineering, with a strong focus on power conversion, electrical systems, and control system design.
 
 LinkedIn :  [in/Wissam-SAYSSOUK](https://www.linkedin.com/in/wissam-sayssouk/)
